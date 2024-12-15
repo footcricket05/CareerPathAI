@@ -1,0 +1,18 @@
+Name: {{name}}
+
+Skills:
+{{skills}}
+
+Desired Role: {{role}}
+
+Career Summary:
+{{summary}}
+
+Experience:
+(Add your professional experience here)
+
+Education:
+(Add your educational qualifications here)
+
+Certifications:
+(Add certifications if any)
